@@ -1,4 +1,6 @@
 .App {
+  height: 788px;
+  background-size: cover;
   text-align: center;
 }
 
@@ -6,6 +8,7 @@
   height: 40vmin;
   pointer-events: none;
 }
+
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
